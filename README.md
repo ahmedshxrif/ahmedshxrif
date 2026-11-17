@@ -42,7 +42,7 @@ I work on both sides of a product. I write the brief, then I write the code.
   <img src="https://skillicons.dev/icons?i=python,ts,js,go,nodejs,postgres,fastapi,docker,git,linux,html,css,tensorflow,githubactions&perline=14" alt="Python, TypeScript, JavaScript, Go, Node.js, PostgreSQL, FastAPI, Docker, Git, Linux, HTML, CSS, TensorFlow, GitHub Actions">
 </p>
 
-Plus the Claude and OpenAI APIs, retrieval, voice and vision models, Power BI and Excel.
+Plus LLM APIs (Anthropic and OpenAI), retrieval, voice and vision models, Power BI and Excel.
 
 ## Featured projects
 
